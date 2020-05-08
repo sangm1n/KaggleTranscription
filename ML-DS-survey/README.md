@@ -460,7 +460,7 @@ msno.matrix(mcq, figsize=(12, 6))
 
 
 
-![png](output_9_1.png)
+![png](./image/output_9_1.png)
 
 
  - 총 290개의 질문(객관식 228개, 주관식 62개)에 대해 응답하지 않은 질문 다수
@@ -482,7 +482,7 @@ sns.countplot(y='GenderSelect', data=mcq)
 
 
 
-![png](output_12_1.png)
+![png](./image/output_12_1.png)
 
 
  - 국가별 응답 수
@@ -666,7 +666,7 @@ sns.distplot(mcq[mcq['Age']>0]['Age'])
 
 
 
-![png](output_17_1.png)
+![png](./image/output_17_1.png)
 
 
 ***
@@ -686,7 +686,7 @@ sns.countplot(y='FormalEducation', data=mcq)
 
 
 
-![png](output_19_1.png)
+![png](./image/output_19_1.png)
 
 
  - 박사 학위 < 학사 학위 < 석사 학위
@@ -827,7 +827,7 @@ sns.countplot(y='MajorSelect', data=mcq)
 
 
 
-![png](output_23_1.png)
+![png](./image/output_23_1.png)
 
 
 ***
@@ -925,7 +925,7 @@ sns.countplot(y='EmploymentStatus', data=mcq)
 
 
 
-![png](output_26_1.png)
+![png](./image/output_26_1.png)
 
 
  - 응답자의 대부분(65%)이 풀타임으로 근무
@@ -945,7 +945,7 @@ sns.countplot(y='Tenure', data=mcq)
 
 
 
-![png](output_28_1.png)
+![png](./image/output_28_1.png)
 
 
  - 우리나라 기준
@@ -962,7 +962,7 @@ plt.show()
 ```
 
 
-![png](output_30_0.png)
+![png](./image/output_30_0.png)
 
 
 
@@ -1021,7 +1021,7 @@ plt.show()
 ```
 
 
-![png](output_32_0.png)
+![png](./image/output_32_0.png)
 
 
 
@@ -1039,7 +1039,7 @@ ax2.title.set_text('Korean Male')
 ```
 
 
-![png](output_33_0.png)
+![png](./image/output_33_0.png)
 
 
 
@@ -1053,7 +1053,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](./image/output_34_0.png)
 
 
 
@@ -1065,5 +1065,5 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](./image/output_35_0.png)
 
