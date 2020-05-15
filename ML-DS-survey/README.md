@@ -16,5 +16,5 @@ Kaggle에서 데이터 사이언스나 머신러닝에 대한 설문 조사를 �
  - RespondentTypeREADME.txt : schema.csv 파일의 "Asked"열에 응답을 디코딩하는 스키마
 
 ## Data Analysis
- - [2017 Kaggle ML & DS Survey Data Analysis ](https://github.com/sangm1n/KaggleTranscription/blob/master/ML-DS-survey/Kaggle_survey.ipynb)
+ - [2017 Kaggle ML & DS Survey EDA ](https://github.com/sangm1n/KaggleTranscription/blob/master/ML-DS-survey/Kaggle_survey.ipynb)
 
