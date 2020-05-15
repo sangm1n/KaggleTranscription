@@ -15,6 +15,4 @@ Kaggle에서 데이터 사이언스나 머신러닝에 대한 설문 조사를 �
  - conversionRates.csv : 2017.9.14에 액세스한 통화 변환율 (USD)
  - RespondentTypeREADME.txt : schema.csv 파일의 "Asked"열에 응답을 디코딩하는 스키마
 
-## Data Analysis
- - [2017 Kaggle ML & DS Survey EDA ](https://github.com/sangm1n/KaggleTranscription/blob/master/ML-DS-survey/Kaggle_survey.ipynb)
 
