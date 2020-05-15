@@ -19,4 +19,5 @@
  - count - number of total rentals
 
 ## Data Analysis
- - Forecast use of a city bikeshare system
+ - [Bike sharing system EDA](https://github.com/sangm1n/KaggleTranscription/blob/master/bike-sharing-demand/bike_demand_EDA.ipynb)
+ - [Forecast use of a city bike sharing system](https://github.com/sangm1n/KaggleTranscription/blob/master/bike-sharing-demand/bike_demand_RF.ipynb)
